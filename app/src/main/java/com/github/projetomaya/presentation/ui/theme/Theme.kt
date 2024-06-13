@@ -1,4 +1,4 @@
-package com.github.projetomaya.ui.theme
+package com.github.projetomaya.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build

@@ -1,4 +1,4 @@
-package com.github.projetomaya.ui.theme
+package com.github.projetomaya.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
