@@ -4,4 +4,5 @@ plugins {
     alias(libs.plugins.jetbrains.kotlin.kapt) apply false
     alias(libs.plugins.google.firebase) apply false
     alias(libs.plugins.compose.compiler) apply false
+    alias(libs.plugins.dagger.hilt) apply false
 }
